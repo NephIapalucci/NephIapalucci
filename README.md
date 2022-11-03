@@ -1,4 +1,4 @@
-# Nicholas Iapalucci
+<img style="width: 100%" src="https://raw.githubusercontent.com/NicholasIapalucci/NicholasIapalucci/main/banner.png" />
 
 <p align="center">
   <img style="width: 100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicholasIapalucci&theme=radical" />
