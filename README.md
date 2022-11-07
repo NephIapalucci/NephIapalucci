@@ -4,7 +4,7 @@
   <img style="width: 100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicholasIapalucci&theme=radical" />
 </p>
 
-<p>
+<p align="center">
   <img align="left" style="width: 45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicholasIapalucci&theme=radical" />
   <img align="right" style="width: 45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicholasIapalucci&theme=radical" />
 </p>
