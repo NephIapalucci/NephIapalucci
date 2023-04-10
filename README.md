@@ -7,10 +7,6 @@
   <img align="left" style="width: 47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NephIapalucci&theme=radical" />
   <img align="right" style="width: 47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NephIapalucci&theme=radical" />
 </p>
-  
-<p align="center">
-  <img style="width: 100%" src="https://activity-graph.herokuapp.com/graph?username=NephIapalucci&bg_color=0D1117&color=e05397&line=4a08a9&point=00ffff&hide_border=true" />
-</p>
 
 <p align="center">
   <img style="width: 100%" src="https://github-profile-trophy.vercel.app/?username=NephIapalucci&margin-w=5&theme=darkhub&no-frame=true" />
